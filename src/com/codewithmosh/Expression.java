@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
 
-
 public class Expression {
 
     private final List<Character> leftBrackets = Arrays.asList('(','<','[','{');
